@@ -1,5 +1,4 @@
 ﻿using System;
-
 class Program 
 {
 
@@ -21,6 +20,5 @@ class Program
        
         Binario(n); // Chamo a função 
 
-       
     }
 }
